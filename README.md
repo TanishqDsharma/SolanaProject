@@ -25,7 +25,7 @@ In this project we created an application that allows users to create a new toke
 You can setup your project directory in anyway you want but I am setting up like below:
 Creating a directory for this project first and navigating inside it:
 ```bash
-mkdir project
+mkdir tokenproject
 cd tokenProject
 ```
 ## Install the dependencies:
