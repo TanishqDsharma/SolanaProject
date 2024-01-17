@@ -75,16 +75,16 @@ In this project, we have created three functions:
 
  * So paste the generated token mint address, public key of your wallet and provide the supply like this:
 
-     ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img4.png)
+     ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img7.png)
   
   * After, clicking on "Mint Tokens" button you will be getting a prompt from your wallet:
     
-      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img5.png)
+      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img8.png)
 
 
   * Click on "Confirm" and you will be seeing link for the transaction in Solana Explorer:
 
-      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img9.png)
 
 
 
