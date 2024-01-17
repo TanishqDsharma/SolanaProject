@@ -1,5 +1,5 @@
 # Project Description:
-In this project we created an application that allows users to create a new token mint, create a token account, and then finally mint tokens.
+In this project, we showcased the comprehensive process of creating a non-native token within the Solana blockchain environment, a prominent platform in the world of decentralized finance. Our focus was on illustrating the step-by-step procedure that begins with the creation of a mint token. This initial phase is crucial as it involves defining the core attributes of the digital token, such as its supply and unique identifiers. Following this, we moved on to establishing a token account for the owner, which acts as a digital wallet to hold and manage the newly created token. The final stage of our demonstration was centered around the creation of a mint transaction. This crucial step is where the actual minting of the token occurs, introducing it into circulation within the Solana ecosystem. By guiding through these essential phases, the project aims to demystify the process of token creation on Solana, providing valuable insights into the workings of blockchain technology and digital asset management.
 
 ## Setting Up the environment:
 You can setup your project directory in anyway you want but I am setting up like below:
