@@ -36,4 +36,22 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+## Interacting with Token Minting Application:
+
+After running the development server and visiting "127.0.0.1:3000" address in your browser, you will be getting this:
+
+![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img1.png)
+
+Now, connect your Phantom wallet with application and then you will be getting access to Applications functionalites:
+
+![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img2.png)
+
+In this project, we have created three functions: 
+1. Create Mint : This button allow you to create Token Mint account. A token mint Account holds all the metadata information about the token such as supply, decimal precision,MintAuthority, FreezeAuthority.
+* After, clicking on "Create Mint" button you will be getting a prompt from your wallet:
+![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+
+* Click on "Confirm" and you will be seeing address of your token mint account and link for the transaction in Solana Explorer:
+![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img4.png)
+
 
