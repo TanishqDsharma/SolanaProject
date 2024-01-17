@@ -48,10 +48,48 @@ Now, connect your Phantom wallet with application and then you will be getting a
 
 In this project, we have created three functions: 
 1. Create Mint : This button allow you to create Token Mint account. A token mint Account holds all the metadata information about the token such as supply, decimal precision,MintAuthority, FreezeAuthority.
-* After, clicking on "Create Mint" button you will be getting a prompt from your wallet:
-![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+  * After, clicking on "Create Mint" button you will be getting a prompt from your wallet:
+    
+    ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+    
 
-* Click on "Confirm" and you will be seeing address of your token mint account and link for the transaction in Solana Explorer:
-![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img4.png)
+  * Click on "Confirm" and you will be seeing address of your token mint account and link for the transaction in Solana Explorer:
+    
+    ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img4.png)
+
+    
+
+2. Create Token Account : This button allow you to create Token Account so that you can store your token here after it is minted. To create the Token Account you need to provide token mint address and Public key of your wallet.
+   
+  * So paste the generated token mint address and public key of your wallet like this:
+    
+     ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+    
+
+  * After, clicking on "Create Token Account" button you will be getting a prompt from your wallet:
+    
+      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+
+
+  * Click on "Confirm" and you will be seeing address of your token account and link for the transaction in Solana Explorer:
+
+      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+
+3. Mint Tokens: This button allows you to mint Tokens. To mint token you need to provide Token Mint address, User address that is allowed to mint tokens (In this case your wallets public key) and finally the supply of token.
+
+ * So paste the generated token mint address, public key of your wallet and provide the supply like this:
+
+     ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+  
+  * After, clicking on "Mint Tokens" button you will be getting a prompt from your wallet:
+    
+      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+
+
+  * Click on "Confirm" and you will be seeing link for the transaction in Solana Explorer:
+
+      ![Alt text](https://github.com/TanishqDsharma/SolanaProject/blob/main/images/img3.png)
+
+
 
 
